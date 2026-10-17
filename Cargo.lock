@@ -143,6 +143,8 @@ dependencies = [
  "canary-report",
  "canary-rpc",
  "canary-runner",
+ "canary-soroban",
+ "canary-xdr",
  "clap",
  "serde",
  "serde_json",
